@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipoxoayu.github.io/sitemap_index.ipoxoayu
